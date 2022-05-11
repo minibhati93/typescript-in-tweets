@@ -19,7 +19,7 @@ This is the collection of my tweets on Typescript
 | Feature                | Tweet                                                                                       |
 |------------------------|-------------------------------------------------------------------------------------------- |
 | Generics               |
-| Keyof Operator         |
+| Keyof Operator         | https://twitter.com/devminibhati/status/1524461379670872064?s=20&t=nvSeUxF_9LbydrvhKa_Lvg.  |
 | Typeof Operator        |
 | Mapped Types           |
 | Conditional Types      |
